@@ -1,3 +1,3 @@
 # Data_Mining_Project
 
-- Deadline : 12 / 17
+- Deadline : 2020 / 12 / 17
